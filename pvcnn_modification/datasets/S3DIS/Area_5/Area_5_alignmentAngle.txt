@@ -1,0 +1,3 @@
+## Global alignment angle per disjoint space in Area_5 ##
+## Disjoint Space Name Global Alignment Angle ##
+office_1 270
